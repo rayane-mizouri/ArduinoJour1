@@ -1,0 +1,6 @@
+Pour limiter le courant à travers la LED, nous pouvons utiliser une résistance en série avec la LED. La loi d'Ohm nous indique que la résistance doit être égale à la différence de tension (5 V - 2 V = 3 V) divisée par le courant souhaité (10 mA = 0,01 A) :
+
+R = (5 V - 2 V) / 0,01 A
+R = 300 ohms
+
+Donc, la valeur de la résistance nécessaire pour obtenir un courant de 10 milliampères à travers la LED est de 300 ohms.
